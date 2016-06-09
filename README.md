@@ -33,4 +33,4 @@ Each one of these should throw an exception with a different message but always 
 
 # Retro
 
-* Assume each verification takes one second to complete. How would you solve Feature #2 and Feature #3 so tests can run faster whilst preventing password timing attacks?
+* How would you solve Feature #1, Feature #2 and Feature #3 whilst preventing password timing attacks?
